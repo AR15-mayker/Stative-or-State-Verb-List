@@ -1,4 +1,6 @@
 # Stative-or-State-Verb-List
+# Список глаголов в стативе или состоянии
+
 ### Оргинал(АНГЛ):
 ![image](https://github.com/user-attachments/assets/d9f78f1d-b546-42e9-9135-27a93471ea59)
 
