@@ -1,0 +1,1 @@
+# Stative-or-State-Verb-List
